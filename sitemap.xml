@@ -53,6 +53,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/soutien_scolaire/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

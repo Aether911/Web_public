@@ -44,7 +44,7 @@
 &lt;/p&gt;
 &lt;p&gt;Pendant vingt ans, j’ai œuvré au sein d’associations de parents d’élèves et j’ai toujours été convaincue que chaque élève a en lui des ressources et forces à stimuler.
 C’est cette certitude qui m’a guidée pour ma reconversion professionnelle dans l’accompagnement des enfants notamment neuroatypiques.
-Je suis aujourd’hui praticienne en psychopédagogie positive et je reçois en cabinet ou en visio des enfants rencontrant des difficultés d’apprentissage, quelles soient passagères ou liées à des troubles (TSA, TDAH, HPI, Dys…). Je les aide à grandir, à s’épanouir, à réussir mais surtout à révéler tout leur potentiel.
+Je suis aujourd’hui praticienne en psychopédagogie positive et je reçois en cabinet ou en visio des enfants rencontrant des difficultés d’apprentissage, quelles soient passagères ou liées à une neuroatypie (TSA, TDAH, HPI, Dys…). Je les aide à grandir, à s’épanouir, à réussir mais surtout à révéler tout leur potentiel.
 Avec une boîte à outils bien remplie, de la joie et de la bonne humeur, apprendre devient un plaisir.&lt;/p&gt;</description>
       
     </item>
@@ -79,7 +79,8 @@ Avec une boîte à outils bien remplie, de la joie et de la bonne humeur, appren
 
   
 &lt;/figure&gt;
-&lt;/p&gt;</description>
+&lt;/p&gt;
+&lt;p&gt;Diplômé d&amp;rsquo;histoire et ayant moi même été un élève neuroatypique, j&amp;rsquo;ai à coeur de proposer un accompagnement qui donne à chacun les outils pour lui permettre d&amp;rsquo;apprendre et de s&amp;rsquo;épanouir, qui respecte ses sensibilités et s&amp;rsquo;adapte à son rythme. Formé à la fabrique à bonheur, je souhaite transmettre ces outils et cette manière d&amp;rsquo;apprendre, à la fois plus humaine et plus adaptée aux besoins des enfants et des adolescents.&lt;/p&gt;</description>
       
     </item>
     
@@ -102,11 +103,7 @@ mouvement, la créativité, les mathématiques et plus.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
       <guid>/widget_rdv/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;
-&lt;script src=&#34;//widget.simplybook.it/v2/widget/widget.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-    var widget = new SimplybookWidget({&#34;widget_type&#34;:&#34;iframe&#34;,&#34;url&#34;:&#34;https:\/\/trousseenmain.simplybook.it&#34;,&#34;theme&#34;:&#34;default&#34;,&#34;theme_settings&#34;:{&#34;timeline_hide_unavailable&#34;:&#34;1&#34;,&#34;hide_past_days&#34;:&#34;0&#34;,&#34;timeline_show_end_time&#34;:&#34;0&#34;,&#34;timeline_modern_display&#34;:&#34;as_slots&#34;,&#34;sb_base_color&#34;:&#34;#69b1ca&#34;,&#34;display_item_mode&#34;:&#34;block&#34;,&#34;booking_nav_bg_color&#34;:&#34;#69b1ca&#34;,&#34;body_bg_color&#34;:&#34;#f7fbfc&#34;,&#34;sb_review_image&#34;:&#34;1&#34;,&#34;sb_review_image_preview&#34;:&#34;\/uploads\/trousseenmain\/image_files\/preview\/988bfc7d9c2c05e2f8c8f52e69c20789.jpg&#34;,&#34;dark_font_color&#34;:&#34;#233c3e&#34;,&#34;light_font_color&#34;:&#34;#ffffff&#34;,&#34;btn_color_1&#34;:&#34;#347a81&#34;,&#34;sb_company_label_color&#34;:&#34;#ffffff&#34;,&#34;hide_img_mode&#34;:&#34;1&#34;,&#34;show_sidebar&#34;:&#34;1&#34;,&#34;sb_busy&#34;:&#34;#c7b3b3&#34;,&#34;sb_available&#34;:&#34;#e2eaec&#34;},&#34;timeline&#34;:&#34;modern&#34;,&#34;datepicker&#34;:&#34;top_calendar&#34;,&#34;is_rtl&#34;:false,&#34;app_config&#34;:{&#34;clear_session&#34;:0,&#34;allow_switch_to_ada&#34;:0,&#34;predefined&#34;:[]}});
-&lt;/script&gt;</description>
+      <description>&lt;p&gt;Avant un premier rdv pour un nouveau suivi, nous vous téléphoneront en amont pour une prise de contact d&amp;rsquo;une quinzaine de minutes, afin de pouvoir préparer au mieux votre accueil et celui de votre enfant.&lt;/p&gt;</description>
       
     </item>
     
@@ -128,13 +125,24 @@ mouvement, la créativité, les mathématiques et plus.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
       <guid>/contact/</guid>
-      <description>&lt;p&gt;Pour nous contacter, vous pouvez utiliser notre adresse mail : &lt;a
+      <description>&lt;p&gt;Si vous souhaitez nous contacter, vous pouvez utiliser notre adresse mail : &lt;a
   href=&#34;mailto:contact@trousseenmain.fr&#34;&gt;contact@trousseenmain.fr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ou nous téléphoner au&lt;/p&gt;
-&lt;p&gt;06 xx xx xx xx
+&lt;p&gt;Ou bien nous téléphoner au&lt;/p&gt;
+&lt;p&gt;06 72 24 53 19
 Céline Bouteloup&lt;/p&gt;
-&lt;p&gt;06 xx xx xx xx
+&lt;p&gt;06 98 95 21 70
 Guillaume Thomazie&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Soutien Scolaire</title>
+      <link>/soutien_scolaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Trousse en main)</author>
+      <guid>/soutien_scolaire/</guid>
+      <description>&lt;p&gt;Formés à la fabrique à bonheur, l&amp;rsquo;accompagnement que nous proposons est basé autour d&amp;rsquo;outils qui favorisent la concentration, la mémorisation, mais aussi l&amp;rsquo;appropriation et la régulation de ses émotions.
+Il s&amp;rsquo;agit d&amp;rsquo;un programme qui consiste à transmettre des méthodes d&amp;rsquo;apprentissage, d&amp;rsquo;organisation et des compétence sociales plutôt qu&amp;rsquo;une remise à niveau dans une matière ou une autre.&lt;/p&gt;</description>
       
     </item>
     
