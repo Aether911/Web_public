@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>nuno@n9o.xyz (Trousse en main)</managingEditor>
     <webMaster>nuno@n9o.xyz (Trousse en main)</webMaster>
     <copyright>© 2025 Trousse en main</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Céline Bouteloup</title>
-      <link>//localhost:1313/bio_celine/</link>
+      <link>/bio_celine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/bio_celine/</guid>
+      <guid>/bio_celine/</guid>
       <description>&lt;p&gt;
 
 
@@ -36,8 +36,8 @@
       /Photo_Celine_web_hu_302b40fc98a95e1f.jpg  660w,
       /Photo_Celine_web_hu_7f446c037535b75.jpg 1280w
     &#34;
-    data-zoom-src=&#34;//localhost:1313/Photo_Celine_web.jpg&#34;
-    src=&#34;//localhost:1313/Photo_Celine_web.jpg&#34;&gt;
+    data-zoom-src=&#34;/Photo_Celine_web.jpg&#34;
+    src=&#34;/Photo_Celine_web.jpg&#34;&gt;
 
   
 &lt;/figure&gt;
@@ -51,10 +51,10 @@ Avec une boîte à outils bien remplie, de la joie et de la bonne humeur, appren
     
     <item>
       <title>Guillaume Thomazie</title>
-      <link>//localhost:1313/bio_guillaume/</link>
+      <link>/bio_guillaume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/bio_guillaume/</guid>
+      <guid>/bio_guillaume/</guid>
       <description>&lt;p&gt;
 
 
@@ -74,8 +74,8 @@ Avec une boîte à outils bien remplie, de la joie et de la bonne humeur, appren
       /Photo_Guillaume_web_hu_5008c8a3e3de369f.jpg  660w,
       /Photo_Guillaume_web_hu_6a39e58f6d915612.jpg 1280w
     &#34;
-    data-zoom-src=&#34;//localhost:1313/Photo_Guillaume_web.jpg&#34;
-    src=&#34;//localhost:1313/Photo_Guillaume_web.jpg&#34;&gt;
+    data-zoom-src=&#34;/Photo_Guillaume_web.jpg&#34;
+    src=&#34;/Photo_Guillaume_web.jpg&#34;&gt;
 
   
 &lt;/figure&gt;
@@ -86,10 +86,10 @@ Avec une boîte à outils bien remplie, de la joie et de la bonne humeur, appren
     
     <item>
       <title>Méthode Six Brics</title>
-      <link>//localhost:1313/six_brics/</link>
+      <link>/six_brics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/six_brics/</guid>
+      <guid>/six_brics/</guid>
       <description>&lt;p&gt;Six Bricks est un outil pratique pour l’apprentissage.&lt;/p&gt;
 &lt;p&gt;Grâce à des activités amusantes et courtes avec des ensembles de six couleurs
 de briques LEGO® DUPLO®, les enfants peuvent développer leur mémoire, le
@@ -99,20 +99,20 @@ mouvement, la créativité, les mathématiques et plus.&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>//localhost:1313/widget_rdv/</link>
+      <link>/widget_rdv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/widget_rdv/</guid>
+      <guid>/widget_rdv/</guid>
       <description>&lt;p&gt;Avant un premier rdv pour un nouveau suivi, nous vous téléphonerons en amont pour une prise de contact d&amp;rsquo;une quinzaine de minutes, afin de pouvoir préparer au mieux votre accueil et celui de votre enfant.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Ateliers</title>
-      <link>//localhost:1313/ateliers/</link>
+      <link>/ateliers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/ateliers/</guid>
+      <guid>/ateliers/</guid>
       <description>&lt;p&gt;En plus de soutien scolaire et méthodologique, nous proposons aussi des ateliers ponctuels sur certaines thématiques. En voici quelques exemples :&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Le casse-tête des devoirs n&amp;rsquo;aura pas lieu&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pour en finir avec les conflits pendant les devoirs et transformer ce temps en moment de partage et de collaboration efficace, Céline, psychopédagogue, vous propose astuces et outils.&lt;/p&gt;</description>
@@ -121,10 +121,10 @@ mouvement, la créativité, les mathématiques et plus.&lt;/p&gt;</description>
     
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;p&gt;Si vous souhaitez nous contacter, vous pouvez utiliser notre adresse mail : &lt;a
   href=&#34;mailto:contact@trousseenmain.fr&#34;&gt;contact@trousseenmain.fr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ou bien nous téléphoner au&lt;/p&gt;
@@ -137,10 +137,10 @@ Guillaume Thomazie&lt;/p&gt;</description>
     
     <item>
       <title>Soutien Scolaire</title>
-      <link>//localhost:1313/soutien_scolaire/</link>
+      <link>/soutien_scolaire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Trousse en main)</author>
-      <guid>//localhost:1313/soutien_scolaire/</guid>
+      <guid>/soutien_scolaire/</guid>
       <description>&lt;p&gt;Formés à la fabrique à bonheur, l&amp;rsquo;accompagnement que nous proposons est basé autour d&amp;rsquo;outils qui favorisent la concentration, la mémorisation, mais aussi l&amp;rsquo;appropriation et la régulation de ses émotions.
 Il s&amp;rsquo;agit d&amp;rsquo;un programme qui consiste à transmettre des méthodes d&amp;rsquo;apprentissage, d&amp;rsquo;organisation et des compétence sociales plutôt qu&amp;rsquo;une remise à niveau dans une matière ou une autre.&lt;/p&gt;</description>
       

@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/bio_celine/</loc>
+    <loc>/bio_celine/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/bio_guillaume/</loc>
+    <loc>/bio_guillaume/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/six_brics/</loc>
+    <loc>/six_brics/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/widget_rdv/</loc>
+    <loc>/widget_rdv/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/ateliers/</loc>
+    <loc>/ateliers/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/soutien_scolaire/</loc>
+    <loc>/soutien_scolaire/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
